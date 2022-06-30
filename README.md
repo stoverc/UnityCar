@@ -9,5 +9,4 @@
 
 ## Changelog
 ### 30 Jun 2022
-#### SumOfIntegerPowers
 1. Initial upload. I had to do some research online about how to use `.gitignore` to make this massive directory archivable, and so far, it seems to have worked! ::fistpump::
