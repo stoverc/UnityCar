@@ -8,5 +8,7 @@
  So far, we've had some pretty good luck on it: We're figuring stuff out as we go, and he's having a blast! I'm super stoked about how it's going, and as such, documenting the progress here seems like a worthwhile endeavor.
 
 ## Changelog
+### 1 Jul 2022
+1. Today, we finalized the [oncoming traffic](https://learn.unity.com/tutorial/bonus-features-1-share-your-work#60901c59edbc2a002136af8e) part of Bonus exercises.
 ### 30 Jun 2022
 1. Initial upload. I had to do some research online about how to use `.gitignore` to make this massive directory archivable, and so far, it seems to have worked! ::fistpump::
