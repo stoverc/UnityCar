@@ -1,4 +1,4 @@
-# UnityCar
+# Unity Car
  UnityLearn Unit 1 + Bonus Features
 
  A month or so ago, my 9yo and I decided to add [Unity Learn](https://learn.unity.com/)'s [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) to our homeschool curriculum.
