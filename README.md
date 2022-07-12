@@ -12,10 +12,9 @@
     <h3>12 Jul 2022</h3>
     <ol>
         <li><p>Added a first-person / third-person camera toggle using a Boolean value + keypress tracker.</p>
-        
-        <p>
-        <b>Note:</b> This is different than <a href = "https://learn.unity.com/tutorial/bonus-features-1-share-your-work#60901c73edbc2a002136af93">what Unity Learn proposes</a>, which is to have two cameras with a toggle-able enabler.
-        </p></li>
+        <p><b>Note:</b> This is different than <a href = "https://learn.unity.com/tutorial/bonus-features-1-share-your-work#60901c73edbc2a002136af93">what Unity Learn proposes</a>, which is to have two cameras with a toggle-able enabler.</p>
+        <p>What I <i>reallllllly</i> want to show is how time increases, not code count. I'll do some digging into that soon and try to implement ASAP.</p></li>
+        <li>
     </ol>
     <h3>1 Jul 2022</h3>
     <ol>
