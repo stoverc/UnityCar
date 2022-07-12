@@ -13,15 +13,16 @@
     <ol>
         <li><p>Added a first-person / third-person camera toggle using a Boolean value + keypress tracker.</p>
         
-        <p><b>Note:</p> This is different than <a href = "https://learn.unity.com/tutorial/bonus-features-1-share-your-work#60901c73edbc2a002136af93">what Unity Learn proposes</a>, which is to have two cameras with a toggle-able enabler.</p>
-      </li>
+        <p>
+        <b>Note:</b> This is different than <a href = "https://learn.unity.com/tutorial/bonus-features-1-share-your-work#60901c73edbc2a002136af93">what Unity Learn proposes</a>, which is to have two cameras with a toggle-able enabler.
+        </p></li>
     </ol>
     <h3>1 Jul 2022</h3>
     <ol>
-        <li>Today, we finalized the [oncoming traffic](https://learn.unity.com/tutorial/bonus-features-1-share-your-work#60901c59edbc2a002136af8e) part of Bonus exercises.</li>
+        <li>Today, we finalized the <a href = "https://learn.unity.com/tutorial/bonus-features-1-share-your-work#60901c59edbc2a002136af8e">oncoming traffic</a> part of Bonus exercises.</li>
     </ol>
     <h3>30 Jun 2022</h3>
     <ol>
-        <li>Initial upload. I had to do some research online about how to use `.gitignore` to make this massive directory archivable, and so far, it seems to have worked! ::fistpump::</li>
+        <li>Initial upload. I had to do some research online about how to use <code>.gitignore</code> to make this massive directory archivable, and so far, it seems to have worked! ::fistpump::</li>
     </ol>
  </details>
