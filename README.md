@@ -7,13 +7,14 @@
 
  So far, we've had some pretty good luck on it: We're figuring stuff out as we go, and he's having a blast! I'm super stoked about how it's going, and as such, documenting the progress here seems like a worthwhile endeavor.
 
-<summary><h2>Changelog</h2></summary>
-  <details>
+<details>
+ <summary><h2>Changelog</h2></summary>
     <h3>12 Jul 2022</h3>
     <ol>
         <li><p>Added a first-person / third-person camera toggle using a Boolean value + keypress tracker.</p>
         
-        <p><b>Note:</p> This is different than <a href = "https://learn.unity.com/tutorial/bonus-features-1-share-your-work#60901c73edbc2a002136af93">what Unity Learn proposes</a>, which is to have two cameras with a toggle-able enabler.</p></li>
+        <p><b>Note:</p> This is different than <a href = "https://learn.unity.com/tutorial/bonus-features-1-share-your-work#60901c73edbc2a002136af93">what Unity Learn proposes</a>, which is to have two cameras with a toggle-able enabler.</p>
+      </li>
     </ol>
     <h3>1 Jul 2022</h3>
     <ol>
@@ -23,4 +24,4 @@
     <ol>
         <li>Initial upload. I had to do some research online about how to use `.gitignore` to make this massive directory archivable, and so far, it seems to have worked! ::fistpump::</li>
     </ol>
-</details>
+ </details>
